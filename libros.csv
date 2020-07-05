@@ -1,0 +1,11 @@
+idLibro,nombre,Genero,Autor,Status
+1,Cien años de soledad,Novela,Gabriel García Márquez,Disponible
+2,Don Quijote de la Mancha,Aburrido,Miguel de Cervantes,No Disponible
+3,Hamlet,Teatro,William Shakespeare,Disponible
+4,El Principito,Fantasía,Antoine de Saint Exupéry,Disponible
+5,Orgullo y Prejuicio,Romantico,Jane Austen,No Disponible
+6,1984,Misterio,George Orwell,No Disponible
+7,La Odisea,Poesía,Homero,No Disponible
+8,El retrato de Dorian Grey,Fantasía,Oscar Wilde,No Disponible
+9,Lo que el viento se llevó,Drama,Margaret Mitchell,Disponible
+10,Moby-Dick,Fantasía,Herman Melville,Disponible
